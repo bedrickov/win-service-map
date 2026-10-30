@@ -29,3 +29,5 @@ dotnet build -c Release
 
 ## Лицензия
 MIT
+
+<!-- verified: 2026-10-30 -->
